@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SHO SAKAI.
 - 👀 I’m interested in Statistical Analysis.
-- 🌱 I’m currently learning High-Dimension-Low-Sample-Size Data, PCA, R, Python, C, Education, ...
+- 🌱 I’m currently learning HDLSS data, PCA, Machine Learning, R, Python, C, School Education...
 - 📫 How to reach me is sending a message with Twitter(https://twitter.com/simplesho_CLT).
 
 <!---
