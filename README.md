@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SAKAI SHO / 酒井 彰.
 - 👀 I’m interested in Statistical Analysis.
-- 🌱 I’m currently learning High-Dimensional Low-Sample-Size data, Machine Learning(e.g. Principal Component Analysis), Programming(e.g. R, Python, C), School Education, ...
+- 🌱 I’m currently learning Mathematical Statistics, Machine Learning, Programming, School Education, ...
 - 📫 How to reach me is sending a message with [Twitter](https://twitter.com/simplesho_CLT).
 
 <!---
