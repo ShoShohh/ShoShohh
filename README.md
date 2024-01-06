@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 酒井 彰 / Sakai Sho.
 - 👀 I’m interested in High-dimensional statistical analysis.
 - 🌱 I’m currently learning independent component analysis, causal inference, machine learning, ...
-- 📫 How to reach me is sending a message on [Twitter](https://twitter.com/simplesho_CLT).
+- 📫 [X(Twitter)](https://twitter.com/simplesho_CLT)
 
 <!---
 ShoShohh/ShoShohh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
