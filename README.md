@@ -5,7 +5,6 @@
 - I am also engaged in **advocacy for hematopoietic stem cell transplantation**, sharing my experience as a donor and promoting donor registration through talks and outreach activities.
 - I share my **research findings and code** on [**GitHub**](https://github.com/ShoShohh), and write about blood donation, stem cell transplantation, data science, education, and research on [**note**](https://note.com/sho_77).
 - 📫 ssakai[AT]math.tsukuba.ac.jp, [X (Twitter)](https://twitter.com/simplesho_CLT), [LinkedIn](https://www.linkedin.com/in/%E5%BD%B0-%E9%85%92%E4%BA%95-2b778b26b/), [Home Page](https://shoshohh.github.io/)
-- 🔍 Actively seeking: Research Assistant roles, internships during my Ph.D., and job opportunities after graduation
 
 <!---
 ShoShohh/ShoShohh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
